@@ -1,0 +1,31 @@
+.Orbite-Mercure, .Mercure {
+    z-index: 2;
+}
+
+.Orbite-Mercure {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 400px;
+    height: 400px;
+    transform: translate(-50%, -50%);
+    border: 1px dashed rgb(255, 255, 255);
+    border-width: 3px;
+    border-color: rgb(187, 187, 187);
+    border-radius: 50%;
+    animation: rotation 10s linear infinite;
+}
+
+.Mercure {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    background-color: gray;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+

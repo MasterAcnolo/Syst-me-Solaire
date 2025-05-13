@@ -1,2 +1,18 @@
 @import url(main.css);
-@import url(planet/sun.css);
+@import url(loader/loader.css);
+
+@import url(animation/scintillement.css);
+@import url(animation/rotation.css);
+@import url(animation/nuages.css);
+
+@import url(solarsystem.css);
+
+@import url(planet/Jupiter.css);
+@import url(planet/Mars.css);
+@import url(planet/Mercure.css);
+@import url(planet/Neptune.css);
+@import url(planet/Saturne.css);
+@import url(planet/Soleil.css);
+@import url(planet/Terre.css);
+@import url(planet/Uranus.css);
+@import url(planet/Venus.css);
