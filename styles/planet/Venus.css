@@ -6,15 +6,13 @@
     position: absolute;
     left: 50%;
     top: 50%;
-    width: 500px;   
-    height: 500px;  
+    width: 500px;
+    height: 500px;
     transform: translate(-50%, -50%);
-    border: 1px dashed rgba(22, 7, 78, 0.5); 
+    border: 1px dashed rgba(255, 200, 100, 0.4);
     border-width: 3px;
-    border-color: rgb(54, 31, 138);  
     border-radius: 50%;
-    animation: rotation 10s linear infinite; 
-    z-index: 1;
+    animation: rotation 5.5s linear infinite;
 }
 
 .Venus {
@@ -22,9 +20,9 @@
     top: 50%;
     left: 100%;
     transform: translate(-50%, -50%);
-    width: 30px;  
-    height: 30px;
-    background-color: #e6c79c;  
+    width: 24px;
+    height: 24px;
+    background-color: #e6c79c;
     border-radius: 50%;
     z-index: 2;
 }
