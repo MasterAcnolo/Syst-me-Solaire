@@ -12,6 +12,7 @@ window.addEventListener("load", () => {
   function loadCSS(href) {
     return new Promise((resolve, reject) => {
       const link = document.createElement("link");
+    
       link.rel = "stylesheet";
       link.href = href;
       link.onload = () => {

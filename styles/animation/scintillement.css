@@ -1,9 +1,0 @@
-@keyframes scintillement {
-  0%   { opacity: 0.2; }
-  10%  { opacity: 0.3; }
-  25%  { opacity: 0.1; }
-  40%  { opacity: 0.4; }
-  60%  { opacity: 0.25; }
-  75%  { opacity: 0.35; }
-  100% { opacity: 0.2; }
-}

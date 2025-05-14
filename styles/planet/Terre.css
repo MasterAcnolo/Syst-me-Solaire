@@ -2,14 +2,14 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 700px;   
-  height: 700px;  
+  width: 600px;   
+  height: 600px;  
   transform: translate(-50%, -50%);
   border: 1px dashed rgba(255, 255, 255, 0.3);  
   border-width: 2px;
   border-color: rgb(187, 187, 187);
   border-radius: 50%;
-  animation: rotation 20s linear infinite;  
+  animation: rotation 3.6s linear infinite;  
   z-index: 5;
 }
 
