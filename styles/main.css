@@ -6,7 +6,7 @@ body {
   color: white;
 }
 
-body::before {
+body::before { /* Un plan en avant tu as ça (les étoiles)*/
     content: ""; 
     position: fixed;
     top: 0; left: 0;
